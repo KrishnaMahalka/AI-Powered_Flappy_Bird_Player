@@ -11,3 +11,10 @@ The primary goal of this project is to demonstrate the application of AI in gami
 2. **NEAT Algorithm**: Utilizes the NEAT algorithm to evolve neural networks capable of playing the game. NEAT evolves both the structure and weights of neural networks, allowing the AI to adapt and learn optimal strategies.
 3. **AI Training**: The AI learns through a process of evolutionary adaptation. Over generations, the neural networks are refined based on their performance, leading to increasingly proficient gameplay.
 4. **Customizable Parameters**:Users can adjust various settings related to the NEAT algorithm and game mechanics, including mutation rates, population size, and training duration. This flexibility allows experimentation and fine-tuning to improve the AI’s performance.
+# Contributions and Queries
+We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
+
+-Krishna Mahalka
+
+Email: [krishnamahalka3@gmail.com](krishnamahalka3@gmail.com)
+
