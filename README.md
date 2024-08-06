@@ -7,6 +7,6 @@ This project combines classic arcade gameplay with modern AI techniques. The cor
 Features
 
 1. **Pygame Implementation**: The game interface, including graphics and controls, is created using Pygame.. 
-2. **NEAT Algorithm: Utilizes** NEAT to evolve neural networks that learn to play the game.
+2. **NEAT Algorithm**: Utilizes NEAT to evolve neural networks that learn to play the game.
 3. **AI Training**: The AI learns through evolution, adapting its neural network to improve its performance.
 4. **Customizable Parameters**: Allows adjustments to the NEAT algorithm settings and game parameters
